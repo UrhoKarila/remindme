@@ -16,9 +16,6 @@ test_commands = GetLinesFromFile("test_commands.txt")
 
 print values
 
-print "\nurhoebeling@gmail.com found in file? "
-print 'urhoebeling@gmail.com' in values
-
 print 'enter_words: ' + repr(str(enter_words))
 print 'exit_words: ' + repr(str(exit_words))
 print 'building regex...'
